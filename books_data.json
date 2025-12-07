@@ -1,0 +1,119 @@
+[
+  {
+    "id": "book-20251207201925-8363",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "publisher": "Scribner",
+    "genre": "Classic, Fiction",
+    "isbn": "9780743273565",
+    "year": 1925,
+    "status": "Not Started",
+    "progress": 0,
+    "current_page": 0,
+    "total_pages": 180,
+    "rating": 0.0,
+    "review": "",
+    "categories": [
+      "General",
+      "Favorites"
+    ],
+    "cover_image": "",
+    "description": "A classic novel of the Jazz Age, telling the tragic story of self-made millionaire Jay Gatsby and his pursuit of the beautiful Daisy Buchanan.",
+    "start_date": "",
+    "finish_date": "",
+    "notes": ""
+  },
+  {
+    "id": "book-20251207201925-2600",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "publisher": "J. B. Lippincott & Co.",
+    "genre": "Classic, Fiction, Historical",
+    "isbn": "9780446310789",
+    "year": 1960,
+    "status": "Reading",
+    "progress": 19,
+    "current_page": 56,
+    "total_pages": 281,
+    "rating": 0.0,
+    "review": "",
+    "categories": [
+      "General",
+      "Favorites"
+    ],
+    "cover_image": "",
+    "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it.",
+    "start_date": "2025-12-01",
+    "finish_date": "",
+    "notes": ""
+  },
+  {
+    "id": "book-20251207201925-1561",
+    "title": "1984",
+    "author": "George Orwell",
+    "publisher": "Secker & Warburg",
+    "genre": "Dystopian, Political Fiction",
+    "isbn": "9780451524935",
+    "year": 1949,
+    "status": "Completed",
+    "progress": 100,
+    "current_page": 328,
+    "total_pages": 328,
+    "rating": 4.749468893429034,
+    "review": "",
+    "categories": [
+      "General"
+    ],
+    "cover_image": "",
+    "description": "A dystopian social science fiction novel and cautionary tale about the dangers of totalitarianism.",
+    "start_date": "2025-07-12",
+    "finish_date": "2025-10-31",
+    "notes": "Great book!"
+  },
+  {
+    "id": "book-20251207201925-5457",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publisher": "T. Egerton",
+    "genre": "Classic, Romance",
+    "isbn": "9780141439518",
+    "year": 1813,
+    "status": "On Hold",
+    "progress": 0,
+    "current_page": 0,
+    "total_pages": 432,
+    "rating": 0.0,
+    "review": "",
+    "categories": [
+      "General"
+    ],
+    "cover_image": "",
+    "description": "The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring.",
+    "start_date": "",
+    "finish_date": "",
+    "notes": ""
+  },
+  {
+    "id": "book-20251207201925-4595",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "publisher": "George Allen & Unwin",
+    "genre": "Fantasy, Adventure",
+    "isbn": "9780547928227",
+    "year": 1937,
+    "status": "Not Started",
+    "progress": 0,
+    "current_page": 0,
+    "total_pages": 310,
+    "rating": 0.0,
+    "review": "",
+    "categories": [
+      "General"
+    ],
+    "cover_image": "",
+    "description": "Bilbo Baggins, a respectable, well-to-do hobbit, lives comfortably in his hobbit-hole until the day the wandering wizard Gandalf chooses him to take part in an adventure.",
+    "start_date": "",
+    "finish_date": "",
+    "notes": ""
+  }
+]

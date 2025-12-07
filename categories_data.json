@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Favorites",
+    "color": "#10B981",
+    "book_count": 2
+  },
+  {
+    "name": "Want to Read",
+    "color": "#10B981",
+    "book_count": 0
+  },
+  {
+    "name": "Currently Reading",
+    "color": "#3B82F6",
+    "book_count": 0
+  },
+  {
+    "name": "Classics",
+    "color": "#F59E0B",
+    "book_count": 0
+  },
+  {
+    "name": "Science Fiction",
+    "color": "#EF4444",
+    "book_count": 0
+  },
+  {
+    "name": "Non-Fiction",
+    "color": "#7A3BA3",
+    "book_count": 0
+  },
+  {
+    "name": "Fantasy",
+    "color": "#8B5CF6",
+    "book_count": 0
+  },
+  {
+    "name": "Biography",
+    "color": "#EC4899",
+    "book_count": 0
+  }
+]

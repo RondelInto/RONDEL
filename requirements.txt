@@ -1,0 +1,12 @@
+# Python Library Management System Requirements
+# Core dependencies
+python>=3.8
+
+# No external dependencies required for this project
+# All modules are built with standard library
+
+# Optional: For future enhancements
+# pillow>=10.0.0  # For image processing
+# pandas>=2.0.0   # For advanced analytics
+# matplotlib>=3.7.0  # For charts and graphs
+# reportlab>=4.0.0  # For PDF generation
